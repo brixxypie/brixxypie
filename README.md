@@ -1,4 +1,10 @@
-## Hi there 👋
+# <ins>$${\color{pink}About \space Me}$$</ins>
+
+- Female
+- She/Her pronouns
+- Currently, I'm learning how to code!
+
+
 
 <!--
 **brixxypie/brixxypie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
